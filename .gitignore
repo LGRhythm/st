@@ -4,3 +4,6 @@ st.o
 x.o
 st.h.orig
 x.c.orig
+config.h.orig
+st.c.orig
+st.desktop
