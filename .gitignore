@@ -9,3 +9,5 @@ st.c.orig
 st.desktop
 x.c.rej
 config.h.rej
+Makefile.rej
+.gitignore
